@@ -1,0 +1,41 @@
+/* Basic styling */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #f4f4f9;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background: #4CAF50;
+  color: white;
+  padding: 1rem;
+}
+
+main {
+  margin: 2rem;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: #4CAF50;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #45a049;
+}
+
+footer {
+  background: #222;
+  color: #ccc;
+  padding: 1rem;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
